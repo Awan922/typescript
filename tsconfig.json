@@ -1,0 +1,8 @@
+{
+ "compilerOptions": {
+	"sourceMap": true
+	},
+	"files": [
+	   "function_declarations_vs_expressions.ts"
+	 ]
+}
